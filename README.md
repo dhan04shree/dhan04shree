@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhanshree Magar</h1>
 <h3 align="center">A passionate front-end developer from India</h3>
 
-- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Web Developement**
 
 - 📫 How to reach me **dhanshreemagar0@gmail.com**
 
