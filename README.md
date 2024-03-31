@@ -2,7 +2,7 @@
 <h3 align="center">A passionate front-end developer from India</h3>
 
 
-- 🌱 I’m currently learning **Web Developement**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **dhanshreemagar0@gmail.com**
 
