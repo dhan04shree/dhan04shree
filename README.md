@@ -7,7 +7,7 @@
 - 📫 How to reach me **dhanshreemagar0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">Linkedin Profile [https://www.linkedin.com/in/dhanshreemagar/]
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
