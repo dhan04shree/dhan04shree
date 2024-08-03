@@ -2,7 +2,8 @@
 
 <h3 align="center">A full stack web developer🚀from India.</h3> <br>
 <div>
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"  align="right" width="30%">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" align="right" width="40%"><br>
 <h3>✨About Me :</h3>
 <!-- Any image aligned to the right. Beware the width -->
 
@@ -24,12 +25,13 @@
 <br>
 <h3 align="left">✨Languages and Tools :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,c,cpp,bootstrap,html,css,javascript,nodejs,express,python,mysql,netlify,mongodb,npm,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,c,cpp,bootstrap,html,css,javascript,nodejs,express,python,mysql,netlify,mongodb,git,github,figma&perline=10)](https://skillicons.dev)
 
 <h3>✨Github Stats :</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhan04shree&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![dhan04shree's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhan04shree&theme=omni&show_icons=true&hide_border=false&layout=compact)
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=dhan04shree&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/dhan04shree)
+![dhan04shree's Stats](https://github-readme-stats.vercel.app/api?username=dhan04shree&theme=omni&show_icons=true&hide_border=false&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dhan04shree&theme=black-ice)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dhan04shree&theme=omni)](https://git.io/streak-stats)
+
