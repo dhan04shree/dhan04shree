@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dhanshree Magar</h1>
 
 <h3 align="center">A full stack web developer🚀from India.</h3> <br>
-<div>
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" align="right" width="40%"><br>
+  <img src="https://github.com/user-attachments/assets/51299478-b212-485e-9936-05c2d820d7b9" align="right" width="40%"><br>
 <h3>✨About Me :</h3>
 <!-- Any image aligned to the right. Beware the width -->
 
-- 💻 I'm an engineering student at PVG's COET Pune
 - 🌱 I’m currently exploring MERN stack development
 - 🔎 Know more about me @<a href="https://dhanshree-portfolio.netlify.app/">Portfolio</a>
-- 👯 I’m looking to collaborate on web dev projects🤝
+- 👯 I’m looking to collaborate with web dev projects🤝
 - 📫 You can contact me @dhanshreemagar0@gmail.com
 </div>
 
