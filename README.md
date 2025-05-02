@@ -13,21 +13,48 @@
 <h3 align="left">✨My Socials : </h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/dhanshreemagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhanshreemagar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dhanshreemagar" border target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhanshreemagar" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/dhan04shree/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhan04shree/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dhanshreemagar0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhanshreemagar0" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left">✨Tech Stack :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,javascript,react,vite,redux,tailwind,nodejs,express,mysql,mongodb,vscode,netlify,vercel,git,github,python,r,&perline=11)](https://skillicons.dev)
+<!---[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,javascript,react,vite,redux,tailwind,nodejs,express,mysql,mongodb,vscode,netlify,vercel,git,github,python,r,&perline=11)](https://skillicons.dev)) -->
 
-<h3>✨Github Stats :</h3>
+<img src="https://img.shields.io/badge/-C-333?style=for-the-badge&logo=C&logoColor=A8B9CC"> <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> 
+<img  src = "https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src ="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img  src="https://img.shields.io/badge/-Bootstrap-5A0FC8?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img   src="https://img.shields.io/badge/-JavaScript-eed718?style=for-the-badge&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=Express&logoColor=white">
+<img  src="https://img.shields.io/badge/-Passport.js-00A162?style=for-the-badge&logo=passport&logoColor=fff">
+<img   src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=00c8ff">
+<img   src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff">
+<img   src="https://img.shields.io/badge/-tailwind%20css-000000?style=for-the-badge&logo=tailwindcss&logoColor=00c8ff">
+<img  src="https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=FFFFFF">
+<img  src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF">
+<img   src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF">
+<img   src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff">
+<img src="http://img.shields.io/badge/-cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white">
+<img   src="https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF">
+<img   src="https://img.shields.io/badge/-r-276DC3?style=for-the-badge&logo=r&logoColor=FFFFFF">
+<img   src="https://img.shields.io/badge/-netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=ffffff">
+<img   src="https://img.shields.io/badge/-render-000?style=for-the-badge&logo=render&logoColor=ffffff">
+<img  src="http://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=FFFFFF">
+<img  src="http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img  src="http://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white">
+<img  src="http://img.shields.io/badge/-Jupyter%20notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 
-![dhan04shree's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhan04shree&theme=omni&show_icons=true&hide_border=true&layout=compact)
 
 
-![dhan04shree's Stats](https://github-readme-stats.vercel.app/api?username=dhan04shree&show=reviews,prs_merged,prs_merged_percentage&theme=omni&show_icons=true&hide_border=true&count_private=true)
+<h3>✨Stats :</h3>
 
-![dhan04shree's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhan04shree&theme=omni&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhan04shree&theme=omni&show_icons=true&hide_border=true&layout=compact)
 
+
+![Stats](https://github-readme-stats.vercel.app/api?username=dhan04shree&show=reviews,prs_merged,prs_merged_percentage&theme=omni&show_icons=true&hide_border=true&count_private=true)
+
+<!---![dhan04shree's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhan04shree&theme=omni&hide_border=true) -->
