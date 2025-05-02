@@ -1,6 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=&color=F753A0&repeat=false&width=435&height=55&lines=Hello+There!%F0%9F%91%8B;+I'm+Dhanshree+Magar;Welcome+to+my+profile" alt="Typing SVG" /></a>
-  <img src="https://github.com/user-attachments/assets/51299478-b212-485e-9936-05c2d820d7b9" align="right" width="40%"><br>
-<h3>✨About Me :</h3>
+<!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=&color=F753A0&repeat=false&width=435&height=55&lines=Hello+There!%F0%9F%91%8B;+I'm+Dhanshree+Magar;Welcome+to+my+profile" alt="Typing SVG" /></a> -->
+  <img src="https://github.com/user-attachments/assets/51299478-b212-485e-9936-05c2d820d7b9" align="right" width="33%"><br>
+<h3>About Me</h3>
 <!-- Any image aligned to the right. Beware the width -->
 
 - 🌱 I’m currently exploring MERN stack development
@@ -10,7 +10,7 @@
 </div>
 
 
-<h3 align="left">✨My Socials : </h3>
+<h3 align="left">My Socials</h3>
 <p align="left">
 
 <a href="https://linkedin.com/in/dhanshreemagar" border target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhanshreemagar" height="30" width="40" /></a>
@@ -18,7 +18,7 @@
 <a href="https://www.hackerrank.com/dhanshreemagar0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhanshreemagar0" height="30" width="40" /></a>
 </p>
 <br>
-<h3 align="left">✨Tech Stack :</h3>
+<h3 align="left">Languages & Tools</h3>
 
 <!---[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,javascript,react,vite,redux,tailwind,nodejs,express,mysql,mongodb,vscode,netlify,vercel,git,github,python,r,&perline=11)](https://skillicons.dev)) -->
 
@@ -26,7 +26,7 @@
 <img  src = "https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src ="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img  src="https://img.shields.io/badge/-Bootstrap-5A0FC8?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img   src="https://img.shields.io/badge/-JavaScript-eed718?style=for-the-badge&logo=javascript&logoColor=ffffff">
+<img   src="https://img.shields.io/badge/-JavaScript-eed718?style=for-the-badge&logo=javascript&logoColor=000">
 <img src="https://img.shields.io/badge/-Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=Express&logoColor=white">
 <img  src="https://img.shields.io/badge/-Passport.js-00A162?style=for-the-badge&logo=passport&logoColor=fff">
@@ -48,9 +48,7 @@
 <img  src="http://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white">
 <img  src="http://img.shields.io/badge/-Jupyter%20notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 
-
-
-<h3>✨Stats :</h3>
+<h3>Current Stats</h3>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhan04shree&theme=omni&show_icons=true&hide_border=true&layout=compact)
 
