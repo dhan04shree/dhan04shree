@@ -20,13 +20,14 @@
 <br>
 <h3 align="left">✨Tech Stack :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,c,cpp,bootstrap,html,css,javascript,nodejs,express,python,mysql,netlify,mongodb,git,github,figma&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,javascript,react,vite,redux,tailwind,nodejs,express,mysql,mongodb,vscode,netlify,vercel,git,github,python,r,&perline=11)](https://skillicons.dev)
 
 <h3>✨Github Stats :</h3>
 
 ![dhan04shree's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhan04shree&theme=omni&show_icons=true&hide_border=true&layout=compact)
 
-![dhan04shree's Stats](https://github-readme-stats.vercel.app/api?username=dhan04shree&theme=omni&show_icons=true&hide_border=true&count_private=true)
+
+![dhan04shree's Stats](https://github-readme-stats.vercel.app/api?username=dhan04shree&show=reviews,prs_merged,prs_merged_percentage&theme=omni&show_icons=true&hide_border=true&count_private=true)
 
 ![dhan04shree's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhan04shree&theme=omni&hide_border=true)
 
