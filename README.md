@@ -47,10 +47,8 @@
 </div> <br></br>
 <div align="center">
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhan04shree&theme=omni&show_icons=true&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhan04shree&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)
 
+![Stats](https://github-readme-stats.vercel.app/api?username=dhan04shree&show=reviews,prs_merged,prs_merged_percentage&theme=material-palenight&show_icons=true&hide_border=false&count_private=true)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dhan04shree&show=reviews,prs_merged,prs_merged_percentage&theme=omni&show_icons=true&hide_border=true&count_private=true)
-
-![dhan04shree's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhan04shree&theme=omni&hide_border=true)
 </div>
