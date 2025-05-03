@@ -1,5 +1,6 @@
 <!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=&color=F753A0&repeat=false&width=435&height=55&lines=Hello+There!%F0%9F%91%8B;+I'm+Dhanshree+Magar;Welcome+to+my+profile" alt="Typing SVG" /></a> -->
  <!-- <img src="https://github.com/user-attachments/assets/51299478-b212-485e-9936-05c2d820d7b9" align="right" width="33%"><br> -->
+ 
  <div align="center" >
   <img width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding">
   <h2>Hi, I'm Dhanshree Magar 👋</h2>
@@ -47,7 +48,8 @@
 </div> <br></br>
 <div align="center">
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhan04shree&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhan04shree&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhan04shree&theme=material-palenight&layout=donut)](https://github.com/dhan04shree/github-readme-stats)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=dhan04shree&show=reviews,prs_merged,prs_merged_percentage&theme=material-palenight&show_icons=true&hide_border=false&count_private=true)
 
