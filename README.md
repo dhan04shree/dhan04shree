@@ -45,12 +45,15 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img  src="http://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white">
 <img  src="http://img.shields.io/badge/-Jupyter%20notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+<img  src="http://img.shields.io/badge/-markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </div> <br></br>
 <div align="center">
   
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhan04shree&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhan04shree&theme=material-palenight&layout=donut)](https://github.com/dhan04shree/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhan04shree&theme=material-palenight&bg_color=101010&layout=donut)](https://github.com/dhan04shree/github-readme-stats)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dhan04shree&show=reviews,prs_merged,prs_merged_percentage&theme=material-palenight&show_icons=true&hide_border=false&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=dhan04shree&show=reviews,prs_merged,prs_merged_percentage&theme=material-palenight&bg_color=101010&show_icons=true&hide_border=false&count_private=true)
 
+<!-- Contribution graph -->
+[![Dhanshree github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhan04shree&theme=material-palenight&bg_color=101010&area=true&hide_border=false)](https://github.com/dhan04shree/github-readme-activity-graph)
 </div>
