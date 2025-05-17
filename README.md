@@ -30,14 +30,11 @@
 <img  src="https://img.shields.io/badge/-Passport.js-00A162?style=for-the-badge&logo=passport&logoColor=fff">
 <img   src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=00c8ff">
 <img   src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff">
-<!--<img   src="https://img.shields.io/badge/-tailwind%20css-000000?style=for-the-badge&logo=tailwindcss&logoColor=00c8ff">-->
 <img  src="https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=FFFFFF">
 <img  src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF">
 <img   src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF">
-<!--<img   src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff">-->
 <img src="http://img.shields.io/badge/-cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white">
 <img   src="https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF">
-<!--<img   src="https://img.shields.io/badge/-r-276DC3?style=for-the-badge&logo=r&logoColor=FFFFFF">-->
 <img   src="https://img.shields.io/badge/-netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=ffffff">
 <img   src="https://img.shields.io/badge/-render-000?style=for-the-badge&logo=render&logoColor=ffffff">
 <img  src="http://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=FFFFFF">
@@ -46,6 +43,9 @@
 <img  src="http://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white">
 <img  src="http://img.shields.io/badge/-Jupyter%20notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 <img  src="http://img.shields.io/badge/-markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+<!--<img   src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff">-->
+<!--<img   src="https://img.shields.io/badge/-r-276DC3?style=for-the-badge&logo=r&logoColor=FFFFFF">-->
+<!--<img   src="https://img.shields.io/badge/-tailwind%20css-000000?style=for-the-badge&logo=tailwindcss&logoColor=00c8ff">-->
 </div> <br></br>
 <div align="center">
   
