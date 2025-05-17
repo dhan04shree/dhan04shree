@@ -20,8 +20,7 @@
 
 <!---[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,javascript,react,vite,redux,tailwind,nodejs,express,mysql,mongodb,vscode,netlify,vercel,git,github,python,r,&perline=11)](https://skillicons.dev)) -->
 
-<img src="https://img.shields.io/badge/-C-333?style=for-the-badge&logo=C&logoColor=A8B9CC"> <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> 
-<img  src = "https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> <img  src = "https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src ="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img  src="https://img.shields.io/badge/-Bootstrap-5A0FC8?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img   src="https://img.shields.io/badge/-JavaScript-eed718?style=for-the-badge&logo=javascript&logoColor=000">
