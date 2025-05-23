@@ -4,8 +4,8 @@
  <div align="center" >
   <img width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding">
   <h2>Hi, I'm Dhanshree Magar 👋</h2>
-   <!--<h3>A Full Stack Developer from India</h3>-->
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=C3A1FF&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=A+Full+Stack+Developer+from+India" alt="Typing SVG" /></a>
+   <h3>Web Developer From India</h3>
+ <!--  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=C3A1FF&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=A+Full+Stack+Developer+from+India" alt="Typing SVG" /></a>-->
    <p>Studying AI & Data Science Engineering from PVG COET Pune</p>
 <!--<h3 align="left">My Socials</h3>
 <p align="left">
