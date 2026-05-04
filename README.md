@@ -8,10 +8,19 @@
  <!--  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=C3A1FF&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=A+Full+Stack+Developer+from+India" alt="Typing SVG" /></a>-->
 <b>A developer turning caffeine into commits.</b> <br> </br>
 <!--<h3 align="center">My Socials</h3>-->
+
 <p align="center">
-<a href="https://linkedin.com/in/dhanshreemagar" border target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhanshreemagar" height="30" width="50" /></a>
-<a href="https://leetcode.com/u/dhan04shree/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhan04shree/" height="30" width="50" /></a>
-<a href="https://www.hackerrank.com/dhanshreemagar0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhanshreemagar0" height="30" width="50" /></a>
+  <a href="https://linkedin.com/in/dhanshreemagar" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://leetcode.com/u/dhan04shree/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.hackerrank.com/dhanshreemagar0" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" />
+  </a>
 </p>
 
 <p>Technologies & Tools </p>
@@ -53,9 +62,10 @@
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhan04shree&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhan04shree&theme=material-palenight&bg_color=101010&layout=donut)](https://github.com/dhan04shree/github-readme-stats) -->
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dhan04shree&show=reviews,prs_merged,prs_merged_percentage&theme=material-palenight&bg_color=101010&show_icons=true&hide_border=false&count_private=true)
+<!--![Stats](https://github-readme-stats.vercel.app/api?username=dhan04shree&show=reviews,prs_merged,prs_merged_percentage&theme=material-palenight&bg_color=101010&show_icons=true&hide_border=false&count_private=true)
 
-<!-- Contribution graph -->
+<!-- Contribution graph 
 [![Dhanshree github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhan04shree&theme=material-palenight&bg_color=101010&area=true&hide_border=false)](https://github.com/dhan04shree/github-readme-activity-graph)
-</div>
+</div>-->
+
 
